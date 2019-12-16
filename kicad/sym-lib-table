@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name stlink-rescue)(type Legacy)(uri ${KIPRJMOD}/stlink-rescue.lib)(options "")(descr ""))
+  (lib (name 74LVC8T245)(type Legacy)(uri /home/hp/kicadlib/74LVC8T245.lib)(options "")(descr ""))
+)
